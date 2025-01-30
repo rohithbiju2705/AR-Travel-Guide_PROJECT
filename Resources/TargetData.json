@@ -1,0 +1,16 @@
+{
+    "TargetList": [
+        {
+            "Name": "Livingroom",
+            "FloorNumber": 0,
+            "Position": { "x": 0.84, "y": 0.00, "z": 0.76 },
+            "Rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+        },
+        {
+            "Name": "Kitchen",
+            "FloorNumber": 0,
+            "Position": { "x": -0.8, "y": 0.00, "z": 5.63 },
+            "Rotation": { "x": 0.0, "y": 90.0, "z": 0.0 }
+        }
+    ]
+}
